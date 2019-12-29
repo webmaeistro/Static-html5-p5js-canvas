@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/webmaeistro/Static-html5-p5js-canvas.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["p5js"],
+  "author": "Martin Andersen <marander@pm.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/webmaeistro/Static-html5-p5js-canvas/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme"
+  "homepage": "https://github.com/webmaeistro/Static-html5-p5js-canvas#readme"
 }
